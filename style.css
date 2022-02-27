@@ -1,25 +1,19 @@
 body {
-  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
-  height: 100%;
-  margin: 0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-.first-color {
-  background: #f5e1da;
-}
-
-.second-color {
-  background: #f1f1f1;
-}
-
-h2 {
-  color: #49beb7;
+  background: #bbded6;
 }
 
 h1 {
-  color: #085f63;
+  color: #61c0bf;
 }
 
-html {
-    height: 100%;
+h2 {
+  color: #fae3d9;
+}
+
+h3 {
+  color: #ffb6b9;
+}
+
+img {
+  width: 300px;
+}
